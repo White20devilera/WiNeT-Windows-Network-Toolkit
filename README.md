@@ -27,6 +27,16 @@ A lightweight, powerful, and automated Batch script designed to diagnose and fix
 *   **Target OS**: Windows 10 / 11
 
 
+
+
+## Screenshots
+
+<img width="1098" height="637" alt="Screenshot 2026-05-09 180243" src="https://github.com/user-attachments/assets/c95fc121-d0e2-46ab-a9d4-9bcd9b8bf86f" />
+
+
 ---
 ## 📄 License
 This project is licensed under the MIT License.
+
+
+
